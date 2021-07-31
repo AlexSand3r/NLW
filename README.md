@@ -1,3 +1,5 @@
 # NLW
 
-##Meu primeiro Readme##
+## Meu primeiro Readme
+
+* ```git init``` Inicia nosso versionamento.
